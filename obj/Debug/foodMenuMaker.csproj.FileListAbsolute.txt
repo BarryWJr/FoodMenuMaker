@@ -1,0 +1,10 @@
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\bin\Debug\foodMenuMaker.exe.config
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\bin\Debug\foodMenuMaker.exe
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\bin\Debug\foodMenuMaker.pdb
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.csprojAssemblyReference.cache
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.Properties.Resources.resources
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.csproj.GenerateResource.cache
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.exe
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.pdb
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.frmMenuMaker.resources
+E:\VS Projects\FoodMenuM\foodMenuMaker\foodMenuMaker\obj\Debug\foodMenuMaker.settingsfrm.resources
